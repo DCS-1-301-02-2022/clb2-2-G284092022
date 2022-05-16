@@ -9,13 +9,13 @@
 　情報化社会による生活の利便さに潜む危険から、私たちの生活を守るネットワーク技術や情報セキュリティ対策などについて学ぶコース。
   1. ***知能情報コース***:mortar_board:
 　IoT、人工知能の知識・技術を基礎から応用まで学び、これからの情報社会を作り出す専門家を目指すコース。
-***
+
 :point_down:拓殖大学八王子国際キャンパス
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
 :point_down:拓殖大学のリンク
 [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 ![Takushoku University Logo](logo.png)
-***
+
 情報工学科の男女比
 |男子|女子|合計|
 |:---|:---:|---:|
